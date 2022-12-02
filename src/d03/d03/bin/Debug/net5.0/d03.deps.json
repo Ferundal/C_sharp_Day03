@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "d03/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "12.0.2"
+        },
+        "runtime": {
+          "d03.dll": {}
+        }
+      },
+      "YamlDotNet/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "d03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IFj2oDZYJIv5sM8mqaj5edVrpgUyoXk/wCGqZQJrgys/0tBajajpjRSgFM+iA/9ILOfTsPYKtcDcwvqBnBcNIg==",
+      "path": "yamldotnet/12.0.2",
+      "hashPath": "yamldotnet.12.0.2.nupkg.sha512"
+    }
+  }
+}

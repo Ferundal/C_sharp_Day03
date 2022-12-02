@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzEG3IP73NPAYZCXoBylB/msBOJ7nJLvddOAluEGb2Bq3Y66hBnwXckstu0CaTPkAfav6+yTYNm71dfDFCOxsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferun\\RiderProjects\\C_sharp\\C_sharp_Day03-0\\src\\d03\\d03\\d03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferun\\.nuget\\packages\\yamldotnet\\12.0.2\\yamldotnet.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
